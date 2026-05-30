@@ -1,0 +1,16 @@
+langchain
+langgraph
+langchain-openai
+langchain-community
+langchain-chroma
+chromadb
+gradio
+langchain-tavily
+wikipedia
+yfinance
+requests
+python-dotenv
+langsmith
+langgraph-checkpoint-sqlite
+matplotlib
+markdown
